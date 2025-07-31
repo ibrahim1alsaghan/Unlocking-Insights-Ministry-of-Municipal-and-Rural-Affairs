@@ -10,11 +10,6 @@ Analysis of complaint data from Saudi Arabia's Ministry of Municipal and Rural A
 - Road repairs
 - Building debris
 
-## Requirements
-
-```bash
-pip install pandas numpy matplotlib seaborn arabic-reshaper python-bidi
-```
 
 ## Key Insights
 
